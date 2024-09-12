@@ -4,7 +4,7 @@
 - since the genome annotations id will be same, implmented a list based nested iteration so that it can be inserted into ``` mongodb as .insertMany() ```
 - below is the UML for the following class.
 
-<img src = "https://github.com/gauravcodepro/mongodb-genome/blob/main/UML.png" >
+<img src = "https://github.com/codecreatede/mongodb-genome/blob/main/UML.png" >
   
 ```
 # if you are executing from the specific directory then
@@ -19,5 +19,5 @@ intronseq("samplefile.gff", "samplefile.fasta", mongointronprepareseq)
 goparsemongo("GO_slim_sample.txt")
 ```
 
-Gaurav
+Gaurav Sablok
 
